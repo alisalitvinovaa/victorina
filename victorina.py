@@ -5,7 +5,7 @@ question = "Как называется компания, которая соз�
 answer = "Стартап"
 print(question)
 otvet = input("введите ответ: ")
-if otvet==answer:
+if otvet == answer:
     c = c+1
     print("правильно")
 else:
